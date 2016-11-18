@@ -2,3 +2,10 @@ body
 {
     background: red;
 }
+body div{
+    font-size: 22px;}
+h1{ font-size: 55px;}
+p
+{
+    font-size: 33px;
+}
